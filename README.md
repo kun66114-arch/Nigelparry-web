@@ -414,6 +414,10 @@
                 padding: 12px 30px;
             }
         }
+    .gallery-item1 {            height: 300px;
+            overflow: hidden;
+            position: relative;
+}
     </style>
 </head>
 <body>
@@ -524,9 +528,9 @@
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1520975867596-8ce9c0b05f14?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Nigel Parry 店铺展示">
+                    <img src="https://images.unsplash.com/photo-1520975867596-8ce9c0b05f14?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Nigel Parry 店铺展示"><span class="gallery-item1"><img src="图片/将前四张图按第五张风格生成并加特写 (5).png" alt="Nigel Parry 面料细节"></span>
                     <div class="gallery-overlay">
-                        <h3>高端购物体验</h3>
+                      <h3>高端购物体验</h3>
                     </div>
                 </div>
             </div>
@@ -556,10 +560,10 @@
                 </div>
                 <div class="footer-column">
                     <h3>联系我们</h3>
-                    <p>中国旗舰店：上海市黄浦区南京西路</p>
-                    <p>电话：+86 21 8888 8888</p>
+                    <p>中国旗舰店：西安市</p>
+                    <p>电话：+87194386</p>
                     <p>邮箱：info@nigelparry.com</p>
-                    <p>官网：www.nigelparry.com</p>
+                    <p>官网：www.nigelparry.cn</p>
                 </div>
             </div>
             <div class="copyright">
