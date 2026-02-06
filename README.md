@@ -443,10 +443,10 @@
     <!-- 英雄区域 -->
     <section class="hero" id="home">
         <div class="hero-content">
-            <h1>NIGEL PARRY</h1>
-            <p>英格兰人物摄影师，以独特的视角展现人物风格的瞬间。随着快门的开启，时间被凝固下来，作为"此时此刻"的记录是不可重复的，也就成为永远。</p>
+          <h1><strong>NIGEL PARRY</strong></h1>
+          <p>英格兰人物摄影师，以独特的视角展现人物风格的瞬间。随着快门的开启，时间被凝固下来，作为"此时此刻"的记录是不可重复的，也就成为永远。</p>
             <a href="#about" class="cta-button">探索品牌故事</a>
-        </div>
+      </div>
     </section>
 
     <!-- 品牌故事 -->
@@ -455,11 +455,11 @@
             <div class="section-title">
                 <h2>品牌故事</h2>
             </div>
-            <div class="content-block">
-                <h3>NIGEL PARRY - 尼格博瑞</h3>
-                <p><span class="highlight">NIGEL PARRY</span>品牌倡导的是人性化的生活理念，讲究传统与创新的结合，注重生活质量，享受休闲的生活方式。<span class="highlight">NIGEL PARRY</span>的男人总是喜欢搭配服装，每时每刻生活在优雅之中。</p>
-                <p><span class="highlight">NIGEL PARRY</span>生产的不仅是产品也是艺术品，让着装成为享受，视觉的享受和心灵的享受。他们用这种美学原理提高着产品的附加值，给消费者全新的生活体验。无时无刻不让消费者在体验美的感觉与生活，品味到美的存在。</p>
-            </div>
+          <div class="content-block">
+            <h3>NIGEL PARRY - 尼格博瑞</h3>
+            <p><strong>NIGEL PARRY</strong>品牌倡导的是人性化的生活理念，讲究传统与创新的结合，注重生活质量，享受休闲的生活方式。<strong>NIGEL PARRY</strong>的男人总是喜欢搭配服装，每时每刻生活在优雅之中。</p>
+            <p><strong>NIGEL PARRY</strong>生产的不仅是产品也是艺术品，让着装成为享受，视觉的享受和心灵的享受。他们用这种美学原理提高着产品的附加值，给消费者全新的生活体验。无时无刻不让消费者在体验美的感觉与生活，品味到美的存在。</p>
+          </div>
         </div>
     </section>
 
@@ -469,10 +469,10 @@
             <div class="section-title">
                 <h2>品牌理念</h2>
             </div>
-            <div class="content-block">
-                <p><span class="highlight">NIGEL PARRY</span>品牌选用与国际流行同步的面料，时尚简约的设计风格，展现服装外观的细致，挺括，内敛，使穿着者穿着舒适和随意，塑造出现代都市成功男士突破自我，修身时尚，优雅绅士的浪漫形象，体现出都市生活中男性所追求的与众不同全新形象，使自己最经典的瞬间成为生活品味的永恒。</p>
-                <p><span class="highlight">NIGEL PARRY</span>尼格博瑞品牌的网点建设充分考虑高端消费者的购物需求，在店面设置、店面装修、产品陈列、人员服务等方面体现顾客的尊贵身份，让顾客在购物的过程之中获得一种全新的购物体验。</p>
-            </div>
+          <div class="content-block">
+            <p><strong>NIGEL</strong> <strong>PARRY</strong>品牌选用与国际流行同步的面料，时尚简约的设计风格，展现服装外观的细致，挺括，内敛，使穿着者穿着舒适和随意，塑造出现代都市成功男士突破自我，修身时尚，优雅绅士的浪漫形象，体现出都市生活中男性所追求的与众不同全新形象，使自己最经典的瞬间成为生活品味的永恒。</p>
+            <p><strong>NIGEL</strong> <strong>PARRY</strong>尼格博瑞品牌的网点建设充分考虑高端消费者的购物需求，在店面设置、店面装修、产品陈列、人员服务等方面体现顾客的尊贵身份，让顾客在购物的过程之中获得一种全新的购物体验。</p>
+          </div>
         </div>
     </section>
 
@@ -516,23 +516,23 @@
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Nigel Parry 男装展示">
+                  <img src="https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Nigel Parry 男装展示">
                     <div class="gallery-overlay">
                         <h3>优雅绅士系列</h3>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Nigel Parry 面料细节">
+                  <img src="https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Nigel Parry 面料细节">
                     <div class="gallery-overlay">
                         <h3>精选面料细节</h3>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1520975867596-8ce9c0b05f14?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Nigel Parry 店铺展示"><span class="gallery-item1"><img src="图片/将前四张图按第五张风格生成并加特写 (5).png" alt="Nigel Parry 面料细节"></span>
+                    <img src="https://ix-marketing.imgix.net/case-study_tile_ikyu.png?auto=format,compress&w=1946" alt="Nigel Parry 店铺展示">
                     <div class="gallery-overlay">
                       <h3>高端购物体验</h3>
-                    </div>
-                </div>
+                  </div>
+              </div>
             </div>
         </div>
     </section>
@@ -561,8 +561,8 @@
                 <div class="footer-column">
                     <h3>联系我们</h3>
                     <p>中国旗舰店：西安市</p>
-                    <p>电话：+87194386</p>
-                    <p>邮箱：info@nigelparry.com</p>
+                  <p>电话：+87194386</p>
+                    <p>邮箱：NP@nigelparry.com</p>
                     <p>官网：www.nigelparry.cn</p>
                 </div>
             </div>
